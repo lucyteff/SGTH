@@ -1,0 +1,2 @@
+id,pacienteId,dataHoraChegada,motivo,status,resumoAtendimento
+1,1,2026-03-15T22:17:16.2675537,dor de costas,FINALIZADO,"paciente com dor lombar faz 6 dias, deve tomar 1 diclofenaco de 100mg por dia "

@@ -1,0 +1,5 @@
+id,nome,login,senha,papel
+1,Atendente Padrão,atendente,123,ATENDENTE
+2,Enfermeiro Padrão,enfermeiro,123,ENFERMEIRO
+3,Médico Padrão,medico,123,MEDICO
+4,Administrador,admin,123,ADMIN
